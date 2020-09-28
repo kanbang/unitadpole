@@ -1,0 +1,21 @@
+{
+  "name": "tadpole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "testcmd"
+  },
+  "keywords": [
+    "tapole",
+    "kedou"
+  ],
+  "author": "zhai",
+  "license": "ISC",
+  "dependencies": {
+    "emoji-js": "^3.5.0",
+    "uview-ui": "^1.7.3",
+    "vue-circle-menu": "^1.1.1",
+    "vue-quick-menu": "^1.0.7"
+  }
+}
